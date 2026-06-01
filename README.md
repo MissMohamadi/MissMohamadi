@@ -14,7 +14,9 @@ Her passion for building **"stable, secure, and modular systems"** drives her wo
 - **Frameworks:** Django, Django REST Framework
 - **Databases:** SQLite (production-ready), MySQL (learning), PostgreSQL (learning)
 - **Tools & DevOps:** Git (learning), Linux CLI (learning), Docker (learning)
-- **Currently Exploring:** React, Clean Architecture, DevOps practices
+- **Automation:** n8n (learning)
+- **Currently Exploring:** React, Clean Architecture, DevOps practic
+
 
 ###  Achievements:
 - Unique strength in **problem-solving** and analytical thinking
