@@ -1,16 +1,7 @@
 ## Hi there 👋
 
 <div align="center">
-
-![Python](https://img.shields.io/badge/Python-3.8+-3776AB?logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-4.x-092E20?logo=django&logoColor=white)
-![DRF](https://img.shields.io/badge/Django_REST-3.14-a30000?logo=django&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-17-00599C?logo=cplusplus&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-44798B?logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-
+  
 # 👋 Hi, I'm Marzieh Mohamadi!
 
 ## 🎯 Python Backend Developer (Django & Django REST Framework)
@@ -52,6 +43,12 @@ Her passion for building **"stable, secure, and modular systems"** drives her wo
 - Ask me about **Python, Django, REST Framework**!
 - 📫 Reach me: [mohamadimarzieh513@gmail.com](mailto:mohamadimarzieh513@gmail.com)
 - 📚 Explore my work: [navacode.ir](https://navacode.ir)
+
+---
+![Python](https://img.shields.io/badge/Python-3.8+-3776AB?logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-4.x-092E20?logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/Django_REST-3.14-a30000?logo=django&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
 ---
 
